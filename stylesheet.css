@@ -11,6 +11,7 @@ html {
 }
 .juhtumid{
   filter:grayscale(80%);
+  font-family: 'Concert One', cursive;
 }
 #bg {
   position: fixed;
