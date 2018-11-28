@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+</head>
+<body>
+  <h1>Ajalugu</h1>
+  <p class ="Sünge lugu">Kaarsild (ka <em>Jalakäijate sild</em>) on
+  jalakäijatele mõeldud kaarsild Tartus kesklinna ja Ülejõe linnaosa vahel
+Raekoja platsi ääres raekoja vastas üle Emajõe. Sild on ehitatud aastatel 1957-1959
+endise Kivisilla kohale, selle kaldasammaste vundamentidele. </p>
+
+  <h1>Kaarsilla lugu</h1>
+  <img src="kaarsild.jpg" alt="" style="width:62%" style="float:right">
+  <a href= "index2.html">Esilehele</a>
+</body>
+
+
+</html>
